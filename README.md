@@ -1,4 +1,4 @@
-<img alt="coding" width="100%" height="200" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
+<img alt="coding" width="100%" height="200" src="https://images.app.goo.gl/mEa3B95EWGXj2VCn6">
 <h1 align="center">Hi 👋, I'm Gaby Kassab</h1>
 <h3 align="center">Passionate About End-to-End Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
