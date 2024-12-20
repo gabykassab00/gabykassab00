@@ -1,4 +1,12 @@
-<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5"></a></p>
+<iframe 
+  src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" 
+  width="480" 
+  height="360" 
+  style="border: none; display: block;" 
+  frameBorder="0" 
+  allowFullScreen>
+</iframe>
+
 <!-- [![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://static.vecteezy.com/system/resources/thumbnails/026/273/669/small_2x/website-coding-web-development-application-developmen-otion-graphic-motion-2d-animation-4k-footage-free-video.jpg) -->
 <h1 align="center">Hi 👋, I'm Gaby Kassab</h1>
 <h3 align="center">Passionate About End-to-End Web Development</h3>
