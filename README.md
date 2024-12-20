@@ -1,6 +1,4 @@
-<a href="/gif/binary-code-4k-long-loop-screensaver-live-wallpaper-Qsvrj0" title="Binary Code 4K Long Loop Screensaver Live Wallpaper">
-<img src="https://i.makeagif.com/media/6-17-2021/Qsvrj0.gif" alt="Binary Code 4K Long Loop Screensaver Live Wallpaper" style="width:100%; display: block; height: auto;" />
-</a>
+
 <h1 align="center">Hi 👋, I'm Gaby Kassab</h1>
 <h3 align="center">Passionate About End-to-End Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
