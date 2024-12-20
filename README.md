@@ -1,3 +1,4 @@
+<img alt="coding" width="100%" height="200" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
 [![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://static.vecteezy.com/system/resources/thumbnails/026/273/669/small_2x/website-coding-web-development-application-developmen-otion-graphic-motion-2d-animation-4k-footage-free-video.jpg)
 <h1 align="center">Hi 👋, I'm Gaby Kassab</h1>
 <h3 align="center">Passionate About End-to-End Web Development</h3>
