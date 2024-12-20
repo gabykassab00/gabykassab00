@@ -1,5 +1,5 @@
 <img alt="" width="100%" height="200" src="https://checkmarx.com/wp-content/uploads/2024/06/Security-Posture-Boost-5-Steps-To-Effective-Static-Source-Code-Analysis-v3-1024x585.webp">
-<h1 align="center">Hi 👋, I'm Gaby Kassab</h1>
+<h1 align="center">Hey 👋, I'm Gaby </h1>
 <h3 align="center">Passionate About End-to-End Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabykassab0&label=Profile%20views&color=0e75b6&style=flat" alt="gabykassab0" /> </p>
